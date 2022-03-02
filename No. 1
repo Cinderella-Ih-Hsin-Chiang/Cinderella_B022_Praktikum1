@@ -21,10 +21,8 @@ int main()
     cout<<endl;
     
     cout<<"Masukan banyaknya Data : "<<n<<endl;
-    cout<<"Rata - rata : "<<rata<<endl;
-    cout<<"Jumlah : "<<jum<<endl;
+    cout<<"Rata - rata : "<< rata <<endl;
+    cout<<"Jumlah : "<< jum <<endl;
 	
   getc;
- 
-    
   }
